@@ -1,0 +1,4 @@
+upstox_config.json
+*.gz
+__pycache__/
+server/data/instruments_complete.json.gz

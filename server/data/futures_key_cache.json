@@ -1,0 +1,14 @@
+{
+  "month": "2026-10",
+  "key": "NSE_FO|48705",
+  "NIFTY": {
+    "key": "NSE_FO|48704",
+    "lot_size": 65,
+    "expiry": "2026-10-27"
+  },
+  "SENSEX": {
+    "key": "BSE_FO|864571",
+    "lot_size": 20,
+    "expiry": "2026-10-29"
+  }
+}
